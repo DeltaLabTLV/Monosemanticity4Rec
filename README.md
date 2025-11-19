@@ -101,18 +101,3 @@ pip install -r requirements.txt
   For optimal ease of maintenance and execution, when working with a particular dataset, please move all files from its corresponding 
   subfolder under code/ into the main directory (where the README file is located). This ensures that the notebooks can locate the 
   necessary scripts without modifying file paths.
-
-
-
-
-
-
-
-
-
-
-=======
-# test
-this is a repsitory that fakes a neural network but actually is a git tutorial
-test
->>>>>>> 90b186446e06c5c685d487abc764b11070b92992
