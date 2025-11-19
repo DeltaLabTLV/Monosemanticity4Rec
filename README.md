@@ -47,7 +47,7 @@ Below is our architecture diagram, which illustrates how the components of our f
 			   updated whenever a new model is trained and evaluated.
 - **models**: Stores the pretrained SAE and recommender system models.
 **Important**: Some files in folder **'dataset'** and **'models'**, **'res_csv'** are too large for GitHub and are hosted externally.
-				Download the missing dataset files from our [anonymous drive folder](https://drive.google.com/drive/folders/12FLL-gItcmZDbEodSjxxd9tfGeQzhXmD?usp=sharing) 
+				Download the missing dataset files from our [drive folder](https://drive.google.com/drive/folders/12FLL-gItcmZDbEodSjxxd9tfGeQzhXmD?usp=sharing) 
 				and place them into the corresponding folder in the repository.
 
   
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## Usage
 1. **Data and Model Files**<br>
-	The files in the dataset and models folders are necessary for the proper execution of the code. Before running any code, please download the missing files from the [anonymous drive folder](https://drive.google.com/drive/folders/12FLL-gItcmZDbEodSjxxd9tfGeQzhXmD?usp=sharing) and place them in their corresponding folders:
+	The files in the dataset and models folders are necessary for the proper execution of the code. Before running any code, please download the missing files from the [drive folder](https://drive.google.com/drive/folders/12FLL-gItcmZDbEodSjxxd9tfGeQzhXmD?usp=sharing) and place them in their corresponding folders:
 	-Download the dataset subfolder from the drive and merge its contents into your local dataset folder.
 	-Download the models subfolder from the drive and merge its contents into your local models folder.
 	-Download the models subfolder from the drive and merge its contents into your local res_csv folder.
