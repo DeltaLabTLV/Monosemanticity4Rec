@@ -46,7 +46,8 @@ Below is our architecture diagram, which illustrates how the components of our f
 - **res_csv**: Holds CSV output files produced by the recommenders, generated during the training and evaluation of existing models.This folder is 
 			   updated whenever a new model is trained and evaluated.
 - **models**: Stores the pretrained SAE and recommender system models.
-**Important**: Some files in folder **'dataset'** and **'models'**, **'res_csv'** are too large for GitHub and are hosted externally.
+  
+**Important Note**: Some files in folder **'dataset'** and **'models'**, **'res_csv'** are too large for GitHub and are hosted externally.
 				Download the missing dataset files from our [drive folder](https://drive.google.com/drive/folders/12FLL-gItcmZDbEodSjxxd9tfGeQzhXmD?usp=sharing) 
 				and place them into the corresponding folder in the repository.
 
