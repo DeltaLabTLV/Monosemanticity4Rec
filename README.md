@@ -1,5 +1,7 @@
 # Extracting-Monosemanticity-in-Latent-Space-Recommender-Systems
 
+[![arXiv](https://img.shields.io/badge/arXiv-2511.18024-b31b1b.svg)](https://arxiv.org/abs/2511.18024)
+
 This repository contains code for extracting monosemantic neurons- interpretable latent dimensions- from recommender system embeddings 
 using a Sparse Autoencoder (SAE) framework. Our approach leverages a prediction-aware reconstruction loss that propagates gradients
 through a frozen recommender to preserve user-item interaction semantics, enabling actionable interventions such as content filtering 
