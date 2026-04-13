@@ -1,6 +1,6 @@
 # Extracting-Monosemanticity-in-Latent-Space-Recommender-Systems
 
-[![arXiv](https://img.shields.io/badge/arXiv-2511.18024-b31b1b.svg)](https://arxiv.org/abs/2511.18024)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.18024-b31b1b.svg)](https://arxiv.org/abs/2511.18024) [![AAAI 2026](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/38461)
 
 
 This repository contains code for extracting monosemantic neurons- interpretable latent dimensions- from recommender system embeddings 
