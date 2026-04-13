@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.18024-b31b1b.svg)](https://arxiv.org/abs/2511.18024)
 
+
 This repository contains code for extracting monosemantic neurons- interpretable latent dimensions- from recommender system embeddings 
 using a Sparse Autoencoder (SAE) framework. Our approach leverages a prediction-aware reconstruction loss that propagates gradients
 through a frozen recommender to preserve user-item interaction semantics, enabling actionable interventions such as content filtering 
@@ -9,6 +10,24 @@ and targeted promotion.
 
 The repository hosts all the code corresponding to our experiments with recommender systems- specifically, Matrix Factorization (MF) and
 Neural Collaborative Filtering (NCF)- coupled with Sparse Autoencoder interpretability techniques as described in our article.
+
+## Citation
+
+This repository accompanies our AAAI 2026 paper.  
+If you use this repository or find our work helpful, please cite:
+
+```bibtex
+@inproceedings{arviv2026extracting,
+  title={Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems},
+  author={Arviv, Dor and Elisha, Yehonatan and Barkan, Oren and Koenigstein, Noam},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={17},
+  pages={14450--14458},
+  year={2026}
+}
+```
+For additional information, please refer to the paper: [AAAI 2026 Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/38461)
 
 ## Overview
 Modern recommender systems rely on latent embeddings to deliver scalable, personalized predictions. However, such representations are 
